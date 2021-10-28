@@ -1,0 +1,5 @@
+﻿  TestShips.cpp
+C:\Users\Auxiliary\Desktop\github\TestShips.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  battleship.cpp
+  Generating Code...
+  Battleship.vcxproj -> C:\Users\Auxiliary\Desktop\github\Battleship\Debug\Battleship.exe
